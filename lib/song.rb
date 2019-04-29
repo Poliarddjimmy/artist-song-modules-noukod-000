@@ -1,3 +1,4 @@
+require_relative './memorable.rb'
 class Song
 
   extend Memorable::ClassMethods
