@@ -1,4 +1,4 @@
-require_relative './memorable.rb'
+#require_relative './memorable.rb'
 class Artist
   attr_accessor :name
   attr_reader :songs
